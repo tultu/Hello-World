@@ -1,5 +1,6 @@
 void main()
 {
+/* This is the new comment */
 	int a;
 	int b; int c;
 	a = 0;
